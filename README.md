@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Xsimple1010/GamepadStore/assets/95971568/5db9b729-4b76-4f12-9d1e-ff18967cf7cb"/>
   <h3> GamepadStore </h3>
-  <p> Designed by Dawid Tomczyk </p>
+  <p> Design criado por Dawid Tomczyk </p>
 
   <a href="https://www.youtube.com/channel/UCddju2gumUntXV0zMOvw9vA">
    <img  height="30px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
