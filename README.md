@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Xsimple1010/GamepadStore/assets/95971568/5db9b729-4b76-4f12-9d1e-ff18967cf7cb"/>
+  <img src="https://github.com/Xsimple1010/GamepadStore/assets/95971568/b848e622-4fe3-4c56-93cd-ec60023076eb"/>
   <h3> GamepadStore </h3>
   <p> Design criado por Dawid Tomczyk </p>
 
@@ -18,8 +18,6 @@
 </div>
 
 # Créditos
-
-<!-- ![icon](https://github.com/Xsimple1010/GamepadStore/assets/95971568/5db9b729-4b76-4f12-9d1e-ff18967cf7cb) -->
 
 Esse design foi criado por Dawid Tomczyk, links relacionados ao seu trabalho estão logo abaixo.
 
