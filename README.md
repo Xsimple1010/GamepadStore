@@ -12,9 +12,6 @@
   <a href="https://twitter.com/Xsimple1010">
    <img  height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-   <a href="https://www.tiktok.com/@xsimple1010?lang=pt-BR">
-   <img  height="30px" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
 </div>
 
 # Créditos
@@ -26,4 +23,4 @@ Esse design foi criado por Dawid Tomczyk, links relacionados ao seu trabalho est
 
 
 # Agradecimentos
-Se você gostou do projeto e quer me apoiar, por favor, marque o projeto com uma estrela no GitHub e se inscreva no meu canal no YouTube. Lá você pode encontrar mais conteúdo sobre Flutter e outras tecnologias. Você também pode me seguir nas outras plataformas, como Twitter, Instagram e TikTok.
+Se você gostou do projeto e quer me apoiar, por favor, marque o projeto com uma estrela no GitHub e se inscreva no meu canal no YouTube. Lá você pode encontrar mais conteúdo sobre Flutter e outras tecnologias. Você também pode me seguir nas outras plataformas, como Twitter e Instagram.
